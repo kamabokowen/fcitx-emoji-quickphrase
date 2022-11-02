@@ -45,4 +45,10 @@ Inspired by this repository / 灵感源自该项目：[levinit/fcitx-emoji](http
 
 如：“鸡腿”(jitui)指的是 [🍗]、“米饭”(mifan)指的是 [🍚]
 
+### emoji_objects.mb
+
+包含物品类的emoji表情。（™的怎么这么多！我搞这个差点没给我累死）
+
+如：“磁铁”(citie)指的是 [🧲]、“胶囊”(jiaonang)指的是 [💊]
+
 【其他分类仍在完善中，最近学业繁忙，敬请各位期待。】
