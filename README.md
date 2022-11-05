@@ -47,8 +47,27 @@ Inspired by this repository / 灵感源自该项目：[levinit/fcitx-emoji](http
 
 ### emoji_objects.mb
 
-包含物品类的emoji表情。（™的怎么这么多！我搞这个差点没给我累死）
+包含物品类的emoji表情。
 
 如：“磁铁”(citie)指的是 [🧲]、“胶囊”(jiaonang)指的是 [💊]
 
-【其他分类仍在完善中，最近学业繁忙，敬请各位期待。】
+### emoji_people.mb
+
+包含人物类emoji表情。（内容较多，共计539条）
+
+包含各种人脸表情
+
+（如：[喜欢]"xihuan"🥰, [吐舌]"tushe"😛）、各种手势（如："ok" 👌、[比心]"bixin"🫰、[左]"zuo"👈、[右]"you"👉
+
+还包括各种职业（如：[医生]"yisheng"🧑‍⚕️、[老师]"laoshi"🧑‍🏫、[法官]"faguan"🧑‍⚖️）
+
+### emoji_activities.mb
+
+包含活动类emoji表情，主要是运动，以及运动相关事物。
+
+（如：[击剑]"jijian"🤺, [冲浪]"chonglang"🏄）、各种物品（如：[乒乓球]"pingpangqiu" 🏓）
+
+### emoji_Places.mb
+
+包含emoji中大部分的地点。
+（如：[日本]"riben"🗾, [情趣酒店]"qingqujiudian"🏩，[日落]"riluo" 🌇）
