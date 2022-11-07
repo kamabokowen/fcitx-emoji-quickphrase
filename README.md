@@ -67,7 +67,12 @@ Inspired by this repository / 灵感源自该项目：[levinit/fcitx-emoji](http
 
 （如：[击剑]"jijian"🤺, [冲浪]"chonglang"🏄）、各种物品（如：[乒乓球]"pingpangqiu" 🏓）
 
-### emoji_Places.mb
+### emoji_places.mb
 
 包含emoji中大部分的地点。
 （如：[日本]"riben"🗾, [情趣酒店]"qingqujiudian"🏩，[日落]"riluo" 🌇）
+
+### emoji_symbol.mb
+
+包含emoji中部分符号。
+（如：[红心]"hongxin"❤️, [取款机]"qukuanji"🏧，[金牛座]"jinniuzuo" ♉,[无穷]"wuqiong"♾️）
