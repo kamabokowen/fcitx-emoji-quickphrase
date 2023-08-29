@@ -10,7 +10,7 @@ Special thanks for this repository / 特别感谢该项目：[fcitx5-android](ht
 
 Inspired by this repository / 灵感源自该项目：[levinit/fcitx-emoji](https://github.com/levinit/fcitx-emoji)
 
-拼音命名的名称参考了以下网站：[Emoji大全](http://emojidaquan.com/)和[EmojiXD](https://emojixd.com/)
+拼音命名的名称参考了以下网站：[Emoji大全](http://emojidaquan.com/), [EmojiXD](https://emojixd.com/), [Emojipedia](https://emojipedia.org/)
 
 # 使用方法
 
@@ -53,7 +53,7 @@ Inspired by this repository / 灵感源自该项目：[levinit/fcitx-emoji](http
 
 ### emoji_people.mb
 
-包含人物类emoji表情。（内容较多，共计539条）
+包含人物类emoji表情。
 
 包含各种人脸表情
 
@@ -76,3 +76,8 @@ Inspired by this repository / 灵感源自该项目：[levinit/fcitx-emoji](http
 
 包含emoji中部分符号。
 （如：[红心]"hongxin"❤️, [取款机]"qukuanji"🏧，[金牛座]"jinniuzuo" ♉,[无穷]"wuqiong"♾️）
+
+### emoji_flags.mb
+
+包含emoji中的旗帜。
+（如：[中国]"zhongguo"🇨🇳, [阿鲁巴]"aluba"🇦🇼，[日本]"riben" 🇯🇵）
